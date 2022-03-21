@@ -1,0 +1,15 @@
+.header {
+    text-align: center; margin: 20px;
+}
+.img-thumbnail {
+    width: 400px; height: auto;
+}
+hr {
+    width: 1150px;margin-left: auto;margin-right: auto;
+}
+#main {
+    text-align: center; height: 500px; width: auto; margin: 25px;
+}
+#main-img {
+    height: 100%; border: 2px solid lightgrey; padding: 5px;
+}
